@@ -129,9 +129,9 @@ export function MusicPlayer() {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary via-secondary to-accent text-balance">
-                Liquid Radio
+                Musarty
               </h1>
-              <p className="text-xs sm:text-sm text-muted-foreground">Streaming the world's vibes</p>
+              <p className="text-xs sm:text-sm text-muted-foreground">Streaming the world's vibes on Musarty.com</p>
             </div>
           </div>
 

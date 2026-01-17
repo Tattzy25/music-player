@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Liquid Radio - Stream World Radio Stations',
-  description: 'Mobile-first streaming radio player with thousands of stations worldwide',
+  title: 'Musarty - Stream World Radio Stations',
+  description: 'Musarty.com — mobile-first streaming radio player with thousands of stations worldwide',
   generator: 'v0.app',
   viewport: {
     width: 'device-width',
