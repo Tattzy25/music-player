@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rb_001",
+    "feature": "name",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/name"
+  },
+  {
+    "id": "rb_002",
+    "feature": "description",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_003",
+    "feature": "tags",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/tag"
+  },
+  {
+    "id": "rb_004",
+    "feature": "language",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/language"
+  },
+  {
+    "id": "rb_005",
+    "feature": "country",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/country"
+  },
+  {
+    "id": "rb_006",
+    "feature": "codec",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/codec"
+  },
+  {
+    "id": "rb_007",
+    "feature": "homepage",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_008",
+    "feature": "station_uuid",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/uuid"
+  },
+  {
+    "id": "rb_009",
+    "feature": "favicon",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_010",
+    "feature": "bitrate",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/bitrate"
+  },
+  {
+    "id": "rb_011",
+    "feature": "votes",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/votes"
+  },
+  {
+    "id": "rb_012",
+    "feature": "last_check_ok",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/lastcheckok"
+  },
+  {
+    "id": "rb_013",
+    "feature": "last_check_time",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_014",
+    "feature": "click_count",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/clickcount"
+  },
+  {
+    "id": "rb_015",
+    "feature": "click_trend",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/clicktrend"
+  },
+  {
+    "id": "rb_016",
+    "feature": "ssl_error",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_017",
+    "feature": "hls",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/hls"
+  },
+  {
+    "id": "rb_018",
+    "feature": "is_https",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/https"
+  },
+  {
+    "id": "rb_019",
+    "feature": "geo_lat",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/geo"
+  },
+  {
+    "id": "rb_020",
+    "feature": "geo_long",
+    "url": "https://de2.api.radio-browser.info/json/stations/by/geo"
+  },
+  {
+    "id": "rb_021",
+    "feature": "timestamp",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  },
+  {
+    "id": "rb_022",
+    "feature": "url_resolved",
+    "url": "https://de2.api.radio-browser.info/json/stations"
+  }
+]

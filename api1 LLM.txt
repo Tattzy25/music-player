@@ -1,0 +1,209 @@
+{
+  "stationuuid": "01234567-89ab-cdef-0123-456789abcdef",
+  "checkuuid": "01234567-89ab-cdef-0123-456789abcdef",
+  "source": "at1.api.radio-browser.info",
+  "codec": "MP3",
+  "bitrate": 128,
+  "hls": 0,
+  "ok": 1,
+  "timestamp": "2020-01-06 15:34:58",
+  "timestamp_iso8601": "2020-01-06T15:34:58Z",
+  "urlcache": "http://stream.example.com/mp3_128",
+  "metainfo_overrides_database": 0,
+  "public": null,
+  "name": "Best Radio",
+  "description": null,
+  "tags": "jazz,pop,rock,indie",
+  "countrycode": "US",
+  "countrysubdivisioncode": null,
+  "homepage": "https://www.example.com",
+  "favicon": "https://www.example.com/icon.png",
+  "loadbalancer": null,
+  "server_software": "Icecast 2.4.0",
+  "sampling": 44100,
+  "timing_ms": 495,
+  "languagecodes": "ger,eng",
+  "ssl_error": 0,
+  "geo_lat": 1.1,
+  "geo_long": -2.2,
+  "geo_distance": 1234.56789,
+  "has_extended_info": false,
+  "changeuuid": "01234567-89ab-cdef-0123-456789abcdef",
+  "url": "http://stream.example.com:8000/streamname",
+  "url_resolved": "http://stream.example.com/mp3_128",
+  "country": "Switzerland",
+  "iso_3166_2": "US-NY",
+  "state": "",
+  "language": "german,english",
+  "votes": 0,
+  "lastchangetime": "2019-12-12 18:37:02",
+  "lastchangetime_iso8601": "2019-12-12T18:37:02Z",
+  "lastcheckok": 1,
+  "lastchecktime": "2020-01-09 18:16:35",
+  "lastchecktime_iso8601": "2020-01-09T18:16:35Z",
+  "lastcheckoktime": "2020-01-09 18:16:35",
+  "lastcheckoktime_iso8601": "2020-01-09T18:16:35Z",
+  "lastlocalchecktime": "2020-01-08 23:18:38",
+  "lastlocalchecktime_iso8601": "2020-01-08T23:18:38Z",
+  "clicktimestamp": "",
+  "clicktimestamp_iso8601": null,
+  "clickcount": 0,
+  "clicktrend": 0,
+  "step_info": {
+    "stepuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "parent_stepuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "checkuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "stationuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "url": "http://stream.example.com:8000/streamname",
+    "urltype": "STREAM",
+    "error": "BadError",
+    "creation_iso8601": "2021-04-13T20:11:19Z"
+  },
+  "servers": [
+    {
+      "uuid": "11234567-89ab-cdef-0123-456789abcdef",
+      "url": "https://my.url/",
+      "statusurl": "https://my.url/status.xsl",
+      "admin": "tester@example.com",
+      "location": "Mars, high street 3",
+      "software": "Icecast 2.4.4"
+    },
+    {
+      "uuid": "11234567-89ab-cdef-0123-456789abcdff",
+      "url": "http://my.url/",
+      "error": "ResultDecodeError"
+    }
+  ],
+  "countries": [
+    { "name": "Albania", "iso_3166_1": "AL", "stationcount": "1" },
+    { "name": "Argentina", "iso_3166_1": "AR", "stationcount": "5" }
+  ],
+  "country_codes": [
+    { "name": "AT", "stationcount": "1" },
+    { "name": "DE", "stationcount": "5" }
+  ],
+  "codecs": [],
+  "languages": [
+    { "name": "albanian", "iso_639": "sq", "stationcount": "1" },
+    { "name": "american english", "iso_639": null, "stationcount": "8" }
+  ]
+}
+{
+  "station": {
+    "changeuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "stationuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "name": "Best Radio",
+    "url": "http://www.example.com/test.pls",
+    "url_resolved": "http://stream.example.com/mp3_128",
+    "homepage": "https://www.example.com",
+    "favicon": "https://www.example.com/icon.png",
+    "tags": "jazz,pop,rock,indie",
+    "country": "Switzerland",
+    "countrycode": "US",
+    "iso_3166_2": "US-NY",
+    "state": "",
+    "language": "german,english",
+    "languagecodes": "ger,eng",
+    "votes": 0,
+    "lastchangetime": "2019-12-12 18:37:02",
+    "lastchangetime_iso8601": "2019-12-12T18:37:02Z",
+    "codec": "MP3",
+    "bitrate": 128,
+    "hls": 0,
+    "lastcheckok": 1,
+    "lastchecktime": "2020-01-09 18:16:35",
+    "lastchecktime_iso8601": "2020-01-09T18:16:35Z",
+    "lastcheckoktime": "2020-01-09 18:16:35",
+    "lastcheckoktime_iso8601": "2020-01-09T18:16:35Z",
+    "lastlocalchecktime": "2020-01-08 23:18:38",
+    "lastlocalchecktime_iso8601": "2020-01-08T23:18:38Z",
+    "clicktimestamp": "",
+    "clicktimestamp_iso8601": null,
+    "clickcount": 0,
+    "clicktrend": 0,
+    "ssl_error": 0,
+    "geo_lat": 1.1,
+    "geo_long": -2.2,
+    "geo_distance": 1234.56789,
+    "has_extended_info": false
+  },
+  "station_check_step": {
+    "stepuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "parent_stepuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "checkuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "stationuuid": "01234567-89ab-cdef-0123-456789abcdef",
+    "url": "http://stream.example.com:8000/streamname",
+    "urltype": "STREAM",
+    "error": "BadError",
+    "creation_iso8601": "2021-04-13T20:11:19Z"
+  },
+  "streaming_servers": [
+    {
+      "uuid": "11234567-89ab-cdef-0123-456789abcdef",
+      "url": "https://my.url/",
+      "statusurl": "https://my.url/status.xsl",
+      "admin": "tester@example.com",
+      "location": "Mars, high street 3",
+      "software": "Icecast 2.4.4"
+    },
+    {
+      "uuid": "11234567-89ab-cdef-0123-456789abcdff",
+      "url": "http://my.url/",
+      "error": "ResultDecodeError"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Albania",
+      "iso_3166_1": "AL",
+      "stationcount": "1"
+    },
+    {
+      "name": "Argentina",
+      "iso_3166_1": "AR",
+      "stationcount": "5"
+    }
+  ],
+  "country_codes": [
+    {
+      "name": "AT",
+      "stationcount": "1"
+    },
+    {
+      "name": "DE",
+      "stationcount": "5"
+    }
+  ],
+  "codecs": [
+    {
+      "name": "AAC",
+      "stationcount": "34"
+    },
+    {
+      "name": "AAC+",
+      "stationcount": "367"
+    }
+  ],
+  "languages": [
+    {
+      "name": "albanian",
+      "iso_639": "sq",
+      "stationcount": "1"
+    },
+    {
+      "name": "american english",
+      "iso_639": null,
+      "stationcount": "8"
+    }
+  ],
+  "tags": [
+    {
+      "name": "00s",
+      "stationcount": "3"
+    },
+    {
+      "name": "10s",
+      "stationcount": "1"
+    }
+  ]
+}

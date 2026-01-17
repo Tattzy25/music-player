@@ -10,6 +10,7 @@
     "cssVariables": true,
     "prefix": ""
   },
+  "iconLibrary": "lucide",
   "aliases": {
     "components": "@/components",
     "utils": "@/lib/utils",
@@ -17,5 +18,14 @@
     "lib": "@/lib",
     "hooks": "@/hooks"
   },
-  "iconLibrary": "lucide"
+  "registries": {
+    "@typedora-ui": "https://typedora-ui.netlify.app/r/{name}.json",
+    "@gooseui": "https://gooseui.pro/r/{name}.json",
+    "@jolyui": "https://www.jolyui.dev/r/{name}.json",
+    "@joyco": "https://registry.joyco.studio/r/{name}.json",
+    "@uselayouts": "https://uselayouts.com/r/{name}.json",
+    "@skiper-ui": "https://skiper-ui.com/registry/{name}.json",
+    "@ai-elements": "https://registry.ai-sdk.dev/{name}.json",
+    "@scrollxui": "https://www.scrollxui.dev/registry/{name}.json"
+  }
 }

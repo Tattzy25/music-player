@@ -1,0 +1,11 @@
+{
+  "id": "global_settings",
+  "version": 1,
+  "discovery": { "hidebroken": true, "lastcheckok": true, "is_https": true, "hls": false },
+  "quality": { "bitrateMin": 64, "bitrateMax": 1000000, "codecs": ["AAC", "MP3"] },
+  "content": { "primaryCountry": "", "featuredGenres": ["pop", "rock"] },
+  "trending": { "topMode": "votes", "topLimit": "50", "recentWeeks": "2" },
+  "ranking": { "order": "clickcount", "reverse": false, "minVotes": 0, "minClickcount24h": 0 },
+  "pagination": { "limitPerPage": 50, "prefetchPages": 1 },
+  "updatedAt": "2026-01-16T00:00:00.000Z"
+}
